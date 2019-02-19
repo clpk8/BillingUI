@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/stgbillinguitesting.iml" filepath="$PROJECT_DIR$/stgbillinguitesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stgbillinguitesting_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stgbillinguitesting_main.iml" group="stgbillinguitesting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stgbillinguitesting_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stgbillinguitesting_test.iml" group="stgbillinguitesting" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.seleniumhq.selenium:selenium-leg-rc:2.47.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-leg-rc/2.47.0/4644deefafed089872e7a110b4f9bce5f86b9d30/selenium-leg-rc-2.47.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-leg-rc/2.47.0/31877e16d187359d2d8c617223cb9e2cef6d6af7/selenium-leg-rc-2.47.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

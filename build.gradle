@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+sourceCompatibility = 1.8
+
+repositories { mavenCentral() }
+
+dependencies {
+   compile 'org.seleniumhq.selenium:selenium-java:2.47.0'
+   //compile 'org.sikuli:sikuli-webdriver:1.0.1'
+   compile 'junit:junit:4.12'
+   compile 'org.apache.poi:poi:3.17'
+   compile "org.apache.poi:poi-ooxml:3.17"
+   compile 'joda-time:joda-time:2.9.4'
+}
